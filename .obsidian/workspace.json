@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "db8366723f22e043",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea23fb0047cc8aae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb5f3ddf76701313",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "В КАКОМ виде можно искать частное решение линейного неоднородного уравнения ....md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e642bf18f8a4431",
+    "type": "split",
+    "children": [
+      {
+        "id": "638ff24327800aa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25c2704175a91171",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fdfa2d2fad80d362",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f5365a6cc3b76406",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "83ffcdec99296da2",
+    "type": "split",
+    "children": [
+      {
+        "id": "50a8dc076855b125",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7297fd7493525483",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "В КАКОМ виде можно искать частное решение линейного неоднородного уравнения ....md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "549c961d3c407c08",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "В КАКОМ виде можно искать частное решение линейного неоднородного уравнения ....md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3025150f570108b4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5d710d2208d21950",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "В КАКОМ виде можно искать частное решение линейного неоднородного уравнения ....md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bb5f3ddf76701313",
+  "lastOpenFiles": [
+    "ИЗВЕСТНЫ корни характеристического уравнения линейного однородного дифференциального уравнени второго порядка с постоянными коэффициентами....md",
+    "Найдите ОБЩЕЕ РЕШЕНИЕ дифференциального уравнения y'' + 2y' + 2y = 0 из перечисленных ниже.md",
+    "Найдите УРАВНЕНИЯ интегральных кривых дифференциального уравнения ... в виде F(x, y) = C для кривой, проходящей через точку (..., ...)..md",
+    "Решите задачу КОШИ. В ответе укажите y(x0) - значение найденного частного решение в указанной точке x0.md",
+    "Решите ДИФФЕРЕНЦИАЛЬНОЕ уравнение ... . Выберите пропущенную в ответе функцию из предложенных ниже..md",
+    "ОПРЕДЕЛИТЕ тип дифференциального уравнения первого порядка y' = ....md",
+    "В КАКОМ виде можно искать частное решение линейного неоднородного уравнения ....md",
+    "ИЗОКЛИНАМИ дифференциального уравнения y' = ... являются.md",
+    "Решите дифференциальное уравнение x2y' = ... . Выберите пропущенную в ответе функцию из предложенных ниже..md"
+  ]
+}
